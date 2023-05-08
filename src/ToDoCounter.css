@@ -1,0 +1,11 @@
+h1 {
+    font-size: 24px;
+    text-align: center;
+    padding: 48px ;
+    margin: 0;
+    font-weight: normal;
+  }
+
+  .ToDoCounter span {
+    font-weight: bold;
+  }
